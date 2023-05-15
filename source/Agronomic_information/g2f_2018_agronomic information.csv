@@ -1,0 +1,150 @@
+Location,Application_or_treatment,Product_or_nutrient_applied,Date_of_application,Quantity_per_acre,Application_unit
+ARH1,irrigation,water,"Friday, August 10, 2018",,
+ARH1,irrigation,water,"Friday, July 20, 2018",,
+ARH1,irrigation,water,"Friday, July 6, 2018",,
+ARH1,irrigation,water,"Friday, June 29, 2018",,
+ARH1,irrigation,Water,"Friday, May 18, 2018",,
+ARH1,irrigation,water,"Saturday, June 16, 2018",,
+ARH1,irrigation,water,"Sunday, June 10, 2018",,
+ARH1,,Disk,"Sunday, March 25, 2018",,
+ARH1,irrigation,water,"Thursday, August 2, 2018",,
+ARH1,irrigation,water,"Thursday, July 12, 2018",,
+ARH1,fertilize,18-46-0,"Tuesday, April 3, 2018",50,lbs/Acre
+ARH1,fertilize,0-0-60,"Tuesday, April 3, 2018",150,lbs/Acre
+ARH1,fertilize,21-0-0-24,"Tuesday, April 3, 2018",100,lbs/Acre
+ARH1,,zinc,"Tuesday, April 3, 2018",30,lbs/Acre
+ARH1,fertilize,46-0-0,"Tuesday, April 3, 2018",75,lbs/Acre
+ARH1,,Field Cultivator,"Tuesday, April 3, 2018",,
+ARH1,,Hip and Rolled,"Tuesday, April 3, 2018",,
+ARH1,,Field Cultivator,"Tuesday, May 1, 2018",,
+ARH1,,Hip and Rolled,"Tuesday, May 1, 2018",,
+ARH1,fertilize,46-0-0,"Tuesday, May 29, 2018",350,lbs/Acre
+ARH1,fertilize,Am Sulfate,"Tuesday, May 29, 2018",100,lbs/Acre
+ARH1,,Planted Corn Test,"Wednesday, May 2, 2018",,
+ARH1,,Planted Corn Filler Dyna-Grow D57VC51 RR,"Wednesday, May 2, 2018",,
+ARH1,post-plant herbicide,Dual,"Wednesday, May 30, 2018",1pt,
+ARH1,post-plant herbicide,Atrazine,"Wednesday, May 30, 2018",2pt,
+ARH1,post-plant herbicide,Permit,"Wednesday, May 30, 2018",1,oz/Acre
+ARH1,post-plant herbicide,Callisto,"Wednesday, May 30, 2018",3,oz/Acre
+ARH1,irrigation,water,"Sunday, June 10, 2018",,
+ARH1,irrigation,water,"Saturday, June 16, 2018",,
+ARH1,irrigation,water,"Friday, June 29, 2018",,
+ARH1,irrigation,water,"Friday, July 6, 2018",,
+ARH1,irrigation,water,"Thursday, July 12, 2018",,
+ARH1,irrigation,water,"Friday, July 20, 2018",,
+ARH1,irrigation,water,"Thursday, August 2, 2018",,
+ARH1,irrigation,water,"Friday, August 10, 2018",,
+ARH2,post-plant herbicide,Acuron,"Wednesday, May 16, 2018",80,oz/Acre
+ARH2,post-plant herbicide,crop oil,"Wednesday, May 16, 2018",,
+DEH1,pre-plant herbicide,Lexar,"Friday, May 4, 2018",96,oz/Acre
+DEH1,pre-plant herbicide,Simazine,"Friday, May 4, 2018",32,oz/Acre
+DEH1,fertilize,N,"Saturday, June 2, 2018",174,lbs/Acre
+DEH1,post-plant herbicide,Atrazine,"Thursday, June 7, 2018",32,oz/Acre
+DEH1,post-plant herbicide,Impact,"Thursday, June 7, 2018",1,oz/Acre
+DEH1,fertilize,N,"Thursday, June 7, 2018",116,lbs/Acre
+DEH1,insecticide,Sniper LFR ,"Wednesday, May 2, 2018",5,oz/Acre
+DEH1,fertilize,N,"Wednesday, May 2, 2018",43,lbs/Acre
+DEH1,fertilize,P2O5,"Wednesday, May 2, 2018",36,lbs/Acre
+DEH1,fertilize,S,"Wednesday, May 2, 2018",2,lbs/Acre
+GAH1,post-plant herbicide,Satellite HydroCap,"Monday, April 30, 2018",32,oz/Acre
+GAH1,post-plant herbicide,Atrazine 4L,"Monday, April 30, 2018",32,oz/Acre
+GAH1,post-plant herbicide,Broadloom,"Monday, April 30, 2018",24,oz/Acre
+GAH1,irrigation,water,"Monday, May 7, 2018",0.6,in/Acre
+GAH1,fertilize,28-0-0-0.5,"Monday, May 7, 2018",4262.4,oz/Acre
+GAH1,fertilize,Boron 10%,"Monday, May 7, 2018",128,oz/Acre
+GAH1,irrigation,water,"Thursday, June 21, 2018",0.6,in/Acre
+GAH1,post-plant herbicide,Me Too Lachlor II,"Tuesday, April 3, 2018",10,oz/Acre
+GAH1,post-plant herbicide,Atrazine 4L,"Tuesday, April 3, 2018",32,oz/Acre
+GAH1,fertilize,9.3-31.7-0,"Tuesday, April 3, 2018",8,lbs/Acre
+GAH1,fertilize,Orangeburg Mix,"Tuesday, April 3, 2018",128,oz/Acre
+GAH1,fertilize,lime,"Tuesday, February 20, 2018",2000,lbs/Acre
+GAH1,post-plant herbicide,Gramoxone,"Tuesday, July 24, 2018",32,oz/Acre
+GAH1,post-plant herbicide,Crop Oil,"Tuesday, July 24, 2018",32,oz/Acre
+GAH1,fertilize,12.72-9.8-23.57,"Tuesday, March 27, 2018",1337,lbs/Acre
+GAH1,irrigation,water,"Tuesday, May 1, 2018",0.6,in/Acre
+GAH1,fertilize,28-0-0-0.5,"Tuesday, May 15, 2018",4262.4,oz/Acre
+GAH1,fertilize,Boron 10%,"Tuesday, May 15, 2018",128,oz/Acre
+GAH2,irrigation,water,"Monday, July 23, 2018",0.75,in/Acre
+GAH2,irrigation,water,"Monday, July 9, 2018",0.75,in/Acre
+GAH2,irrigation,water,"Monday, June 18, 2018",0.5,in/Acre
+GAH2,irrigation,water,"Monday, June 25, 2018",0.75,in/Acre
+GAH2,pre-plant herbicide,Atrazine,"Sunday, April 1, 2018",2 qt,
+GAH2,fertilize,lime,"Sunday, April 1, 2018",1000,lbs/Acre
+GAH2,fertilize,5.5-26-30 fertilizer,"Sunday, April 1, 2018",400,lbs/Acre
+GAH2,irrigation,water,"Thursday, June 14, 2018",0.75,in/Acre
+GAH2,irrigation,water,"Tuesday, July 10, 2018",0.75,in/Acre
+GAH2,fertilize,Nitrogen sidedress,"Tuesday, June 12, 2018",240,lbs/Acre
+GAH2,irrigation,water,"Tuesday, June 26, 2018",0.75,in/Acre
+ILH1,pre-plant herbicide,Outlook/Infantry,,21/48,oz/Acre
+ILH1,post-plant herbicide,Calisto/Atrazine/AMS/COC,,3/32/2.5%/1%,oz/Acre
+ILH1,fertilize,UAN 28%,,60,gal/Acre
+INH1,post-plant herbicide,Bicep II,"Tuesday, May 8, 2018",1.6 qt,
+INH1,fertilize,28% UAN,"Wednesday, June 27, 2018",150,lbs/Acre
+KSH1,post-plant herbicide,Balance Flex herbicide,"Friday, May 18, 2018",3,oz/Acre
+KSH1,post-plant herbicide,Atrazine,"Friday, May 18, 2018",0.75,lbs/Acre
+KSH1,irrigation,water,"Monday, August 13, 2018",2.78,in/Acre
+KSH1,irrigation,water,"Saturday, July 14, 2018",4.68,in/Acre
+KSH1,fertigation,NH3,"Thursday, February 22, 2018",167,lbs/Acre
+KSH1,post-plant herbicide,NIS,"Thursday, June 14, 2018",32,oz/Acre
+KSH1,post-plant herbicide,Steadfast Q,"Thursday, June 14, 2018",1.5,oz/Acre
+KSH1,post-plant herbicide,Status,"Thursday, June 14, 2018",10,oz/Acre
+KSH1,post-plant herbicide,Prowl H2O,"Thursday, June 14, 2018",57,oz/Acre
+KSH1,post-plant herbicide,AMS,"Thursday, June 14, 2018",2,lbs/Acre
+KSH1,fertigation,Starter 50-45-10-10-2,"Thursday, March 15, 2018",,
+KSH1,irrigation,water,"Tuesday, July 3, 2018",7.35,in/Acre
+KSH1,irrigation,preirrigation,"Tuesday, May 1, 2018",12.5,in/Acre
+MIH1,fertilize,Starter Fertilizer 16.55-6.59-2.03,"Monday, May 28, 2018",157,lbs/Acre
+MIH1,post-plant herbicide,Medal II EC,"Tuesday, June 19, 2018",20.8,oz/Acre
+MIH1,post-plant herbicide,Atrazine,"Tuesday, June 19, 2018",24,oz/Acre
+MIH1,fertilize,28% Nitrogen,"Friday, June 22, 2018",481.5,lbs/Acre
+MIH1,post-plant herbicide,Aremzon,"Tuesday, June 26, 2018",0.75,oz/Acre
+MNH1,fertilize,140+0+0,"Saturday, April 28, 2018",180,lbs/Acre
+MNH1,fertilize,AMS 21-0-0-24,"Sunday, April 29, 2018",100,lbs/Acre
+MNH1,fertilize,MAP 11-52-0,"Sunday, April 29, 2018",175,lbs/Acre
+MNH1,fertilize,0-0-60,"Sunday, April 29, 2018",116,lbs/Acre
+MNH1,post-plant herbicide,Acuron,"Friday, May 25, 2018",96,oz/Acre
+MNH1,post-plant herbicide,Laudis,"Friday, June 29, 2018",96,oz/Acre
+MNH1,adjuvant,crop oil,"Friday, June 29, 2018",32,oz/Acre
+MOH1- rep 1,post-plant herbicide,Degree Extra,"Thursday, May 17, 2018",96,oz/Acre
+MOH1- rep 1,post-plant herbicide,Atrazine 4L,"Thursday, May 17, 2018",32,oz/Acre
+MOH1- rep 1,post-plant herbicide,Roundup PowerMax,"Thursday, May 17, 2018",32,oz/Acre
+MOH1- rep 1,post-plant herbicide,Callisto,"Thursday, May 17, 2018",3,oz/Acre
+MOH1- rep 1,fertilize,Phosphorus & Potassium (unknown form),"Tuesday, April 3, 2018",0-100-100,lbs/Acre
+MOH1- rep 1,fertilize,Nitrogen - SuperU,"Wednesday, May 9, 2018",120-0-0,lbs/Acre
+NYH1,fertilize,7-33-21 broadcast prior to planting,"Thursday, May 24, 2018",300,lbs/Acre
+NYH1,post-plant herbicide,Acuron herbicide,"Saturday, May 26, 2018",96,oz/Acre
+NYH1,fertilize,UAN side dressed  30-0-0,"Tuesday, June 26, 2018",135,lbs/Acre
+NYH2,fertilize,30% UAN protected with nitrapyrin nitrification inhibitor (Nitrogen 42 GPA knifed between rows),"Friday, June 22, 2018",130 (42 GPA),lbs/Acre
+NYH2,post-plant herbicide,"Acuron (S-Metalochlor, Atrazine, Mesotrione)","Friday, May 18, 2018",96,oz/Acre
+NYH2,fertilize,7-33-21 ,"Monday, May 14, 2018",250,lbs/Acre
+NYH3,fertilize,30% UAN protected with nitrapyrin nitrification inhibitor (Nitrogen 42 GPA knifed between rows),"Friday, June 22, 2018",130 (42 GPA),lbs/Acre
+NYH3,post-plant herbicide,"Acuron (S-Metalochlor, Atrazine, Mesotrione)","Friday, May 18, 2018",96,oz/Acre
+NYH3,fertilize,7-33-21 ,"Monday, May 14, 2018",250,lbs/Acre
+OHH1,fertilize,"11-52-0, preplant incorporated","Friday, April 13, 2018",NPK 5-25-0,lbs/Acre
+OHH1,fertilize,"0-0-60, preplant incorporated","Friday, April 13, 2018",NPK 0-0-39,lbs/Acre
+OHH1,fertilize,28-0-0,"Monday, June 18, 2018",180 N,lbs/Acre
+OHH1,,Fungicide - Delaro 325 SC,"Tuesday, August 14, 2018",8.5,oz/Acre
+OHH1,post-plant herbicide,Status,"Tuesday, June 19, 2018",5,oz/Acre
+OHH1,fertilize,19-18-0  (liquid planter starter),"Tuesday, May 15, 2018","27N, 26P",lbs/Acre
+OHH1,,Zinc   (with planter fertilizer),"Tuesday, May 15, 2018",32,oz/Acre
+OHH1,post-plant herbicide,Acuron,"Wednesday, May 16, 2018",80,oz/Acre
+ONH2,post-plant herbicide,Option,"Friday, June 15, 2018",21.3,oz/Acre
+ONH2,post-plant herbicide,Aatrex,"Friday, June 15, 2018",19.6,oz/Acre
+ONH2,post-plant herbicide,Callisto,"Friday, June 15, 2018",7.1,oz/Acre
+ONH2,post-plant herbicide,28%,"Friday, June 15, 2018",33.81,oz/Acre
+ONH2,fertilize,28%,"Tuesday, July 3, 2018",170,lbs/Acre
+SCH1,fertilize,13-19-24 ,,400,lbs/Acre
+SCH1,post-plant herbicide,Bicep II Magnum,,32,oz/Acre
+SCH1,post-plant herbicide,Atrazine,,16,oz/Acre
+SCH1,post-plant herbicide,Banvel,,8,oz/Acre
+SCH1,fertilize,UAN,,75,lbs/Acre
+WIH1,fertilize,Granular Urea,,200,lbs/Acre
+WIH1,insecticide,Force 3G,,6,lbs/Acre
+WIH1,post-plant herbicide,Simazine 4L,,16,oz/Acre
+WIH1,post-plant herbicide,Callisto,,5,oz/Acre
+WIH1,post-plant herbicide,Dual II - Magnum,,24,oz/Acre
+WIH2,fertilize,Granual Urea,,200,lbs/Acre
+WIH2,insecticide,Force 3G,,6,lbs/Acre
+WIH2,post-plant herbicide,Simazine 4L,,16,oz/Acre
+WIH2,post-plant herbicide,Callisto,,5,oz/Acre
+WIH2,post-plant herbicide,Dual II - Magnum,,24,oz/Acre

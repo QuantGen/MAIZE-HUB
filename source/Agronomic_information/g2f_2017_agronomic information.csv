@@ -1,0 +1,124 @@
+Location,Application_or_treatment,Product_or_nutrient_applied,Date_of_application,Quantity_per_acre,Application_unit
+ARH1,fertilize,46-0-0,"Tuesday, March 21, 2017",100,lbs/Acre
+ARH1,fertilize,ammonium sulfate,"Tuesday, March 21, 2017",100,lbs/Acre
+ARH1,fertilize,zinc sulfate,"Tuesday, March 21, 2017",30,lbs/Acre
+ARH1,pre-plant herbicide,Dual II Mag.,"Friday, April 14, 2017",16,oz/Acre
+ARH1,fertilize,28-0-0-5,"Tuesday, May 9, 2017",480,lbs/Acre
+ARH1,post-plant herbicide,Dual,"Wednesday, May 10, 2017",16,oz/Acre
+ARH1,post-plant herbicide,Permit,"Wednesday, May 10, 2017",1,oz/Acre
+ARH1,post-plant herbicide,Callisto,"Wednesday, May 10, 2017",3,oz/Acre
+ARH1,post-plant herbicide,Atrazine,"Wednesday, May 10, 2017",48,oz/Acre
+ARH1,irrigation,water,"Thursday, June 15, 2017",3,in/Acre
+ARH1,irrigation,water,"Friday, June 30, 2017",3,in/Acre
+ARH1,irrigation,water,"Wednesday, July 12, 2017",3,in/Acre
+ARH1,irrigation,water,"Wednesday, July 19, 2017",3,in/Acre
+ARH1,irrigation,water,"Wednesday, August 2, 2017",3,in/Acre
+ARH2,pre-plant herbicide,Squarts Acuron,"Wednesday, April 26, 2017",,
+ARH2,fertilize,Urea,"Thursday, May 11, 2017",100 units per acre,oz/Acre
+ARH2,post-plant herbicide,atrazine,"Tuesday, May 16, 2017",32,oz/Acre
+ARH2,post-plant herbicide,Dual Magnum,"Tuesday, May 16, 2017",32,oz/Acre
+ARH2,post-plant herbicide,Buctril 4EC,"Tuesday, May 16, 2017",8,oz/Acre
+ARH2,post-plant herbicide,Crop Oil,"Tuesday, May 16, 2017",32,oz/Acre
+ARH2,fertilize,nitrogen knifed,"Thursday, May 25, 2017",100 units per acre,
+ARH2,fertilize,nitrogen knifed,"Thursday, June 1, 2017",80 units per acre,
+ARH2,irrigation,water,"Friday, June 16, 2017",2.5,in/Acre
+ARH2,irrigation,water,"Monday, July 17, 2017",2.5,in/Acre
+COH1,fertilize,Nitrogen,13-Apr,65,lbs/Acre
+COH1,pre-plant herbicide,Roundup PowerMAX,"Monday, May 15, 2017",24,oz/Acre
+COH1,pre-plant herbicide,AccuQuest WM,"Monday, May 15, 2017",12.8,oz/Acre
+COH1,pre-plant herbicide,AD-MAX 90,"Monday, May 15, 2017",4.4,oz/Acre
+COH1,fertilize,KickStand® Manganese 4% Xtra,"Wednesday, June 28, 2017",32,oz/Acre
+DEH1,fertilize,Poultry manure,,6000,lbs/Acre
+DEH1,fertilize,Starter fertilizer 20-10-0,4/28/17,1536,oz/Acre
+DEH1,fertilize,30% UAN,5/23/17,7680,oz/Acre
+DEH1,pre-plant herbicide,Lexar,4/28/17,96,oz/Acre
+DEH1,pre-plant herbicide,Princep,4/28/17,32,oz/Acre
+DEH1,insecticide,Sniper,4/28/17,5,oz/Acre
+GAH1,fertilize,14-4-29,"Wednesday, March 29, 2017",600,lbs/Acre
+GAH1,post-plant herbicide,Atrazine,"Friday, April 7, 2017",32,oz/Acre
+GAH1,post-plant herbicide,Dual,"Friday, April 7, 2017",16,oz/Acre
+GAH1,post-plant herbicide,Prowl,"Wednesday, May 3, 2017",32,oz/Acre
+GAH1,post-plant herbicide,Atrazine,"Wednesday, May 3, 2017",32,oz/Acre
+GAH1,post-plant herbicide,Basagran,"Wednesday, May 3, 2017",24,oz/Acre
+GAH1,post-plant herbicide,Gramoxone,"Tuesday, July 25, 2017",32,oz/Acre
+GAH1,fertilize,28-0-0-0.5,"Tuesday, May 2, 2017",4262,oz/Acre
+GAH1,fertilize,10% Boron,"Tuesday, May 2, 2017",128,oz/Acre
+GAH1,fertilize,28-0-0-0.5,"Tuesday, May 9, 2017",4262,oz/Acre
+GAH2,fertilize,"38.5 lb of Nitrogen, 182 lb of P2O5, 210 lb of K2O","Monday, April 10, 2017",all rates per acre,
+GAH2,insecticide,Lorsban 4E,"Friday, June 2, 2017",,
+GAH2,fertilize,Side dressed Nitrogen,"Thursday, June 1, 2017",260 lb/ac,
+GAH2,pre-plant herbicide,1 quart/acre of Atrazine and 2 quart/acre of Warrant,"Friday, April 21, 2017",,
+GAH2,post-plant herbicide,Accent 2/3 ounce/acre and Prowl H2O 1quart/acre,"Wednesday, May 17, 2017",,
+MIH1,fertilize,Manure N31.5-P4.3-K16.3 from Digester,"Monday, May 1, 2017",636000,oz/Acre
+MIH1,fertilize,Starter 16-16-16,"Friday, May 19, 2017",1536,oz/Acre
+MIH1,fertilize,28%,"Thursday, June 15, 2017",5760,oz/Acre
+MIH1,post-plant herbicide,Keystone,"Tuesday, May 23, 2017",64,oz/Acre
+MNH1,fertilize,Nitrogen,"Thursday, April 27, 2017",140,lbs/Acre
+MNH1,post-plant herbicide,Accuron,"Sunday, May 14, 2017",6.25,lbs/Acre
+MOH1,fertilize,Super U,"Friday, May 12, 2017",120,lbs/Acre
+MOH1,post-plant herbicide,Harness Xtra 2.6L,,80,oz/Acre
+MOH1,post-plant herbicide,Callisto,,3,oz/Acre
+MOH1,post-plant herbicide,Roundup PowerMax,,32,oz/Acre
+MOH1,irrigation,Overhead; recorded by weather station,,,
+NCH1,,Applied 16-0-24,,375 lbs./A,
+NCH1,,Applied Counter 20G,,6.5 lbs./A,
+NCH1,,Begin Planting Research,,,
+NCH1,,Applied 24S,,42 GPA,
+NCH1,,Applied 24S,,110 lbs./N,
+NCH1,,Applied Atrazine,,1.5 qt./A,
+NCH1,,Applied Dual Magnum,,1.5 pt./A,
+NCH1,,Applied Round Up Pwrmax,,1 qt./A,
+NCH1,,Applied Evik DF,,2 lbs./A,
+NCH1,,Applied Impact,,1 oz./A,
+NYH2,fertilize,7-33-21 broadcasted,"Tuesday, May 16, 2017",400,lbs/Acre
+NYH2,pre-plant herbicide,Bicep Lite II magnum,"Sunday, May 21, 2017",48,oz/Acre
+NYH2,pre-plant herbicide,Callisto,"Sunday, May 21, 2017",5,oz/Acre
+NYH2,fertilize,Side Dressed N with 30% UAN,"Thursday, June 22, 2017",107,lbs/Acre
+NYH3,fertilize,7-33-21 broadcasted,"Tuesday, May 16, 2017",400,lbs/Acre
+NYH3,pre-plant herbicide,Bicep Lite II magnum,"Sunday, May 21, 2017",48,oz/Acre
+NYH3,pre-plant herbicide,Callisto,"Sunday, May 21, 2017",5,oz/Acre
+NYH3,fertilize,Side Dressed N with 30% UAN,"Thursday, June 22, 2017",107,lbs/Acre
+OHH1,fertilize,"11-52-0, preplant incorporated",,NPK 14-65-0,lbs/Acre
+OHH1,fertilize,"0-0-60, preplant incorporated",,NPK 0-0-51,lbs/Acre
+OHH1,fertilize,19-18-0  (liquid planter starter),"Tuesday, May 16, 2017","27N, 26P",lbs/Acre
+OHH1,fertilize,Zinc   (with planter fertilizer),"Tuesday, May 16, 2017",32,oz/Acre
+OHH1,fertilize,28-0-0,"Tuesday, June 13, 2017",200,lbs/Acre
+OHH1,post-plant herbicide,Acuron,,80,oz/Acre
+OHH1,post-plant herbicide,Status,,5,oz/Acre
+OHH1,post-plant herbicide,Accent Q,,0.9,oz/Acre
+ONH2,post-plant herbicide,Primextra Magnum,"Monday, June 12, 2017",47,oz/Acre
+ONH2,post-plant herbicide,Calisto,"Monday, June 12, 2017",4,oz/Acre
+ONH2,fertilize,28%,"Thursday, June 15, 2017",170,lbs/Acre
+TXH1,FOR G2LA,,,,
+TXH1,Pre-plant fertilization,11-37-0 + 4 Zn,"Tuesday, February 28, 2017",150,lbs
+TXH1,Pre-emergent Herbicide,Dual II Magnum,"Friday, April 7, 2017",26.56,oz
+TXH1,Pre-emergent Herbicide,Atrazine,"Friday, April 7, 2017",48,oz
+TXH1,Post-Herbicide,Atrazine,"Wednesday, May 3, 2017",32,oz
+TXH1,Post-Herbicide,Prowl H2O,"Wednesday, May 3, 2017",32,oz
+TXH1,Post-fertilization,32-0-0,"Wednesday, April 26, 2017",775,lbs
+TXH1,Furrow Irrigation,H2O,"Thursday, June 1, 2017",,
+TXH1,,,,,
+TXH1,FOR G2FE,,,,
+TXH1,Pre-plant fertilization,11-37-0 + 4 Zn,"Tuesday, February 28, 2017",150,lbs
+TXH1,Pre-emergent Herbicide,Dual II Magnum,"Friday, March 3, 2017",26.56,oz
+TXH1,Pre-emergent Herbicide,Atrazine,"Friday, March 3, 2017",48,oz
+TXH1,Post-Herbicide,Atrazine,"Monday, April 17, 2017",32,oz
+TXH1,Post-Herbicide,Prowl H2O,"Monday, April 17, 2017",32,oz
+TXH1,Post-fertilization,32-0-0,"Friday, April 7, 2017",775,lbs
+TXH1,Furrow Irrigation,H2O,"Thursday, June 1, 2017",,
+TXH1,,,,,
+TXH1,,,,,
+TXH1,For DG2F,,,,
+TXH1,Pre-plant fertilization,11-37-0 + 4 Zn,"Tuesday, February 28, 2017",150,lbs
+TXH1,Pre-emergent Herbicide,Dual II Magnum,"Friday, March 3, 2017",26.56,oz
+TXH1,Pre-emergent Herbicide,Atrazine,"Friday, March 3, 2017",48,oz
+TXH1,Post-fertilization for DG2F,32-0-0,"Friday, April 7, 2017",500,lbs
+TXH1,Post-Herbicide,Atrazine,"Thursday, April 27, 2017",32,oz
+TXH1,Post-Herbicide,Prowl H2O,"Thursday, April 27, 2017",32,oz
+WIH1,fertilize,urea,"Monday, April 24, 2017",270,lbs/Acre
+WIH1,pre-plant herbicide,"Medal II, sirrazine, Explorer","Friday, April 28, 2017",,
+WIH2,fertilize,urea,"Monday, May 8, 2017",250,lbs/Acre
+SCH1,fertilize,13-19-24,,400,lbs/Acre
+SCH1,pre-plant herbicide,Bicep Magnum,,32,oz/Acre
+SCH1,fertilize,UAN,,75,lbs/Acre
+SCH1,post-plant herbicide,Atrazine,,16,oz/Acre
