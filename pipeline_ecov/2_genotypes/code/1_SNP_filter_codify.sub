@@ -1,0 +1,25 @@
+#!/usr/bin/bash --login
+#!/mnt/research/quantgen/tools/scripts/Rscript_login_shell_wrapper
+#SBATCH --job-name=QC_SNP
+#SBATCH --output=../log/%x_%A_%a
+#SBATCH --time=03:59:00
+#SBATCH --mem=120G
+
+module load GCC/6.4.0-2.28  OpenMPI/2.1.2
+module load bcftools/1.13
+module load VCFtools/0.1.15-Perl-5.26.0
+
+cd /mnt/research/quantgen/projects/G2F/resource_paper/pipeline_ecov/2_genotypes
+
+unzip ../source/Genotype/Hybrids_G2F_Genotype_Data_All_Years.vcf.zip -d output
+
+bcftools view -i 'F_MISSING<0.1 && MAF>0.03' \
+    output/5_Genotype_Data_All_Years.vcf -Ob \
+    -o output/Genotype_All_Years_MAF_3perc_filtered.vcf
+
+vcftools --vcf output/Genotype_All_Years_MAF_3perc_filtered.vcf --012 \
+         --out output/geno_numeric_MAF_3perc_filtered.vcf
+
+# Remove unnecessary files
+rm output/5_Genotype_Data_All_Years.vcf
+rm output/Genotype_All_Years_MAF_3perc_filtered.vcf
