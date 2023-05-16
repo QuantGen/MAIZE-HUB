@@ -9,4 +9,18 @@ Genotypic SNP data for years 2014-2022 can be downloaded from [https://doi.org/1
 
 ## Data curation and environmental covariates derivation
 A modular code workflow as below was used to clean phenotypic and genotypic data, and to develop environmental covariates (EC) derived from crop modeling.
-This workflow can be found in this [wiki](https://github.com/QuantGen/MAIZE-HUB/wiki/Pipeline-data-curation)
+This workflow can be found in this [wiki](https://github.com/QuantGen/MAIZE-HUB/wiki/Pipeline-data-curation).
+
+## Curated phenotypic, genotypic, and EC data
+The curated phenotype data set includes 78,686 records of 4,372 hybrids, tested over 8 years (from 2014 to 2021) and 38 locations. The final set of marker genotypes includes 4,372 hybrids and 98,026 SNPs. The EC file includes 189 ECs evaluated in 136 unique year-location combinations. The following snippet shows how to read the data into an R-session.
+
+```
+PHENO=read.csv('PHENO.csv') 
+ECOV=read.csv('ECOV.csv', row.names=1)
+GENO=data.table::fread('GENO.csv',sep=',',data.table=FALSE) 
+rownames(GENO)=GENO[,1]
+GENO=as.matrix(GENO[,-1])
+```
+
+These data sets can be found in the Figshare repository at [https://doi.org/10.6084/m9.figshare.22776806]()
+
