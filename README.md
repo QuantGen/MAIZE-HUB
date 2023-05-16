@@ -12,7 +12,7 @@ A modular code workflow as below was used to clean phenotypic and genotypic data
 This workflow can be found in this [wiki](https://github.com/QuantGen/MAIZE-HUB/wiki/Pipeline-data-curation).
 
 ## Curated phenotypic, genotypic, and EC data
-The curated phenotype data set includes 78,686 records of 4,372 hybrids, tested over 8 years (from 2014 to 2021) and 38 locations. The final set of marker genotypes includes 4,372 hybrids and 98,026 SNPs. The EC file includes 189 ECs evaluated in 136 unique year-location combinations. The following snippet shows how to read the data into an R-session.
+The curated phenotype data set includes 78,686 records of 4,372 maize hybrids, tested over 8 years (from 2014 to 2021) and 38 locations. The final set of marker genotypes includes 4,372 hybrids and 98,026 SNPs. The EC file includes 189 ECs evaluated in 136 unique year-location combinations. The following snippet shows how to read the data into an R-session.
 
 ```
 PHENO=read.csv('PHENO.csv') 
@@ -23,4 +23,7 @@ GENO=as.matrix(GENO[,-1])
 ```
 
 These data sets can be found in the Figshare repository at [https://doi.org/10.6084/m9.figshare.22776806]()
+
+## Data analysis
+The following pipeline provides tools to perform multivariate analyses to characterize the data set’s genetic and environmental structure, study the association of key environmental factors with grain yield and flowering traits, and provide benchmarks using state-of-the-art genomic prediction models. 
 
