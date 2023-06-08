@@ -84,35 +84,13 @@ The overall structure of the workflow is as follows
 ├── README
 ├── source
 │   ├── Agronomic_information
-│   │   ├── g2f_2014_field_characteristics.csv
-│   │   ├── g2f_2015_agronomic_information.csv
-│   │   ├── g2f_2016_agronomic_information.csv
-│   │   ├── g2f_2017_agronomic\ information.csv
-│   │   ├── g2f_2018_agronomic\ information.csv
-│   │   ├── g2f_2019_agronomic_information.csv
-│   │   ├── g2f_2020_agronomic_information.csv
-│   │   └── g2f_2021_agronomic_information.csv
+│   │   | # save here the agronmic information files downloaded from G2F (see Soruce above), one file per year.
 │   ├── Genotype
-│   │   └── Hybrids_G2F_Genotype_Data_All_Years.vcf.zip
+│   │    # save here the compressed vcf file with genotypes, downloaded from G2F
 │   ├── Metadata
-│   │   ├── g2f_2014_field_characteristics.csv
-│   │   ├── g2f_2015_field_metadata.csv
-│   │   ├── g2f_2016_field_metadata.csv
-│   │   ├── g2f_2017_field_metadata.csv
-│   │   ├── g2f_2018_field_metadata.csv
-│   │   ├── g2f_2019_field_metadata.csv
-│   │   ├── g2f_2020_field_metadata.csv
-│   │   ├── g2f_2021_field_metadata.csv
-│   │   └── g2f_2022_field_metadata.csv
+│   │   | # save here the metadata downloaded from G2F (see Soruce above), one file per year.
 │   └── Phenotype
-│       ├── g2f_2014_hybrid_data_clean.csv
-│       ├── g2f_2015_hybrid_data_clean.csv
-│       ├── g2f_2016_hybrid_data_clean.csv
-│       ├── g2f_2017_hybrid_data_clean.csv
-│       ├── g2f_2018_hybrid_data_clean.csv
-│       ├── g2f_2019_phenotypic_clean_data.csv
-│       ├── g2f_2020_phenotypic_clean_data.csv
-│       └── g2f_2021_phenotypic_clean_data.csv
+│       | # save here the phenotype files downloaded from G2F (see Soruce above), one file per year.
 └── tools
     ├── APSIM_functions.R
     ├── ecov_utils.R
