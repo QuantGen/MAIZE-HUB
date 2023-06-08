@@ -5,7 +5,7 @@ This repository has the pipelies used for curating [Genomes to Fields](https://w
 If you have questions about the content of this repository, please contact Marco Lopez-Cruz (lopezcru@msu.edu) and Gustavo de los Campos (gustavoc@msu.edu).
    
 
-### Final curated data set
+## Final curated data set
 
 The final curated data set can be donwloaded form this Figshare [DOI](https://figshare.com/s/5d730ac680a4f6926a4a).
 
@@ -33,7 +33,7 @@ You can read them into an R environment using the following code.
  GENO=as.matrix(GENO[,-1])
 ```
 
-## 1) Data source
+### 1) Data source
 
 The phenotypic and genotypic data can be downloaded from the G2F repoisotry
   - **[Phenotypic data](https://www.genomes2fields.org/resources/)**
@@ -100,7 +100,7 @@ The overall structure of the workflow is as follows
     └── read_phenotype.R
 ```
 
-## Benmchmarks
+### 3) Benmchmarks
 
 We used the curated data set to run vairous analysis including, principal components analysis, environmental-covariate-phenotype association analysis, variance components estimation, and assessment of prediction accuracy using Bayesian models.
 
