@@ -22,7 +22,7 @@ rownames(GENO)=GENO[,1]
 GENO=as.matrix(GENO[,-1])
 ```
 
-These data sets can be found in the Figshare repository at [https://doi.org/10.6084/m9.figshare.22776806]()
+These data sets can be found in the Figshare repository at [https://doi.org/10.6084/m9.figshare.22776806](https://figshare.com/s/5d730ac680a4f6926a4a)
 
 ## Data analysis
 The following pipeline provides tools to perform multivariate analyses to characterize the data set’s genetic and environmental structure, study the association of key environmental factors with grain yield and flowering traits, and provide benchmarks using state-of-the-art genomic prediction models. 
