@@ -5,9 +5,10 @@ This repository has the pipelies used for curating [Genomes to Fields](https://w
 If you have questions about the content of this repository, please contact Marco Lopez-Cruz (lopezcru@msu.edu) and Gustavo de los Campos (gustavoc@msu.edu).
 
 ## Menu
- - [Final curated data set](#curated_dataset)
+ - 1. [Data source](#data_source)
+ - 2. [Data curation and environmental covariates workflow](#data_curation)
+ - 3. [Data analysis and benchmarks modules](#data_analysis)
    
-<a name="curated_dataset"></a>
 ## Final curated data set
 
 The final curated data set can be donwloaded form this Figshare [DOI](https://figshare.com/s/5d730ac680a4f6926a4a).
@@ -36,6 +37,7 @@ You can read them into an R environment using the following code.
  GENO=as.matrix(GENO[,-1])
 ```
 
+<a name="data_source"></a>
 ### 1) Data source
 
 The phenotypic and genotypic data can be downloaded from the G2F repoisotry
@@ -44,6 +46,7 @@ The phenotypic and genotypic data can be downloaded from the G2F repoisotry
 
 These data must be downloaded and saved in the `source` folder of the following pipeline.
 
+<a name="data_curation"></a>
 ###  2) Data curation and environmental covariates workflow
 
 The pipeline used to generate the curated data set can be downloaded from this [link](https://github.com/QuantGen/MAIZE-HUB/blob/main/data_curation_and_ecov.zip).
@@ -103,6 +106,7 @@ The overall structure of the workflow is as follows
     └── read_phenotype.R
 ```
 
+<a name="data_analysis"></a>
 ### 3) Data analysis and benchmarks modules
 
 We used the curated data set to run vairous analysis including, principal components analysis, environmental-covariate-phenotype association analysis, variance components estimation, and assessment of prediction accuracy using Bayesian models.
