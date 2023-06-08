@@ -5,9 +5,9 @@ This repository has the pipelies used for curating [Genomes to Fields](https://w
 If you have questions about the content of this repository, please contact Marco Lopez-Cruz (lopezcru@msu.edu) and Gustavo de los Campos (gustavoc@msu.edu).
 
 ## Menu
- - 1. [Data source](#data_source)
- - 2. [Data curation and environmental covariates workflow](#data_curation)
- - 3. [Data analysis and benchmarks modules](#data_analysis)
+ 1. [Data source](#data_source)
+ 2. [Data curation and environmental covariates workflow](#data_curation)
+ 3. [Data analysis and benchmarks modules](#data_analysis)
    
 ## Final curated data set
 
