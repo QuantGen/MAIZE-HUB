@@ -54,7 +54,7 @@ The pipeline used to generate the curated data set can be downloaded from this [
 
 Once the file is uncompressed, it will generate a collection of folders, each containing a module of the workflow (see folder tree below). The number that preceeds the folder name indicate the order in which the modules need to be run. Because some modules use outputs from other modules as inputs, as a rule of thumb we recommend running the modules sequentially.
 
-Before running any module you need to populate the `source` folder with the data downloaded from G2F (see [Data source](<a name="data_source"></a>)). 
+Before running any module you need to populate the `source` folder with the data downloaded from G2F (see [Data source](#data_source)). 
 
 
 The overall structure of the workflow is as follows
