@@ -41,7 +41,7 @@ The phenotypic and genotypic data can be downloaded from the G2F repoisotry
 
 These data must be downloaded and saved in the `source` folder of the following pipeline.
 
-###  2) Data curation and environmental covariates derivation
+###  2) Data curation and environmental covariates workflow
 
 The pipeline used to generate the curated data set can be downloaded from this [link]().
 
@@ -100,7 +100,7 @@ The overall structure of the workflow is as follows
     └── read_phenotype.R
 ```
 
-### 3) Benmchmarks
+### 3) Data analysis and benchmarks modules
 
 We used the curated data set to run vairous analysis including, principal components analysis, environmental-covariate-phenotype association analysis, variance components estimation, and assessment of prediction accuracy using Bayesian models.
 
