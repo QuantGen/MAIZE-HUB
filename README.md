@@ -18,7 +18,21 @@ The pipelines use the files in the above links as inputs.
 
 The final curated data set can be donwloaded form this Figshare [DOI](https://figshare.com/s/5d730ac680a4f6926a4a).
 
-Once the files are downloaded and uncompressed, you can read them into an R environment using the following code.
+Once the files are downloaded and uncompressed, it will generate the following files
+
+
+```
+data
+├── ECOV.csv
+├── ECOV_KL.csv
+├── ECOV_layered.csv
+├── ECOV_period.csv
+├── GENO.csv
+├── MAP.csv
+└── PHENO.csv
+```
+
+You can read them into an R environment using the following code.
 
 ```r
  PHENO=read.csv('PHENO.csv') 
@@ -30,7 +44,16 @@ Once the files are downloaded and uncompressed, you can read them into an R envi
 
 ###  Data curation and environmental covariates derivation
 
-The folloiwng [wiki page](https://github.com/QuantGen/MAIZE-HUB/wiki/Pipeline-data-curatio) shows the workflow we use to curate geneotypes and phenotypes and to genrate the enviromental covariates. 
+The pipeline used to generate the curated data set can be downloaded from this (link](https://github.com/QuantGen/MAIZE-HUB/blob/main/pipeline_analysis.zip).
+
+Once the file is uncompressed, it will generate a collection of folders, each containing a module of the workflow. The number that preceeds the folder name indicate the order in which the modules need to be run. For instance the folder `2_`
+
+The overall structure of the workflow is as follows
+
+```
+
+
+```
 
 ## Benmchmarks
 
