@@ -11,7 +11,7 @@ If you have questions about the content of this repository, please contact Marco
    
 ## Final curated data set
 
-The final curated data set can be donwloaded form this Figshare [DOI](https://figshare.com/s/5d730ac680a4f6926a4a).
+The final curated data set can be downloaded form this Figshare [DOI](https://figshare.com/s/5d730ac680a4f6926a4a).
 
 Once the files are downloaded and uncompressed, it will generate the following files
 
