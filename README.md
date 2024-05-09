@@ -4,10 +4,13 @@ This repository has the pipelines used in [Lopez-Cruz *et al*. (2023)](https://d
 
 If you have questions about the content of this repository, please contact Marco Lopez-Cruz (lopezcru@msu.edu) and Gustavo de los Campos (gustavoc@msu.edu).
 
+The development of this resource has been funding by NSF-PGRP Grant [NUM].
+
 ## Menu
- 1. [Data source](#data_source)
- 2. [Data curation and environmental covariates workflow](#data_curation)
- 3. [Data analysis and benchmarks modules](#data_analysis)
+ 1. Requeriments and software
+ 2. [Data source](#data_source)
+ 3. [Data curation and environmental covariates workflow](#data_curation)
+ 4. [Data analysis and benchmarks modules](#data_analysis)
    
 ## Final curated data set
 
