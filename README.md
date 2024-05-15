@@ -2,9 +2,9 @@
 
 This repository has the pipelines used in [Lopez-Cruz *et al*. (2023)](https://doi.org/10.1038/s41467-023-42687-4) for curating the [Genomes to Fields](https://www.genomes2fields.org/) data and to generate Environmental Covariates (EC) for each of the year-locations in the data set. We also provide pipelines we used to analyze this data using Bayesian models.
 
-If you have questions about the content of this repository, please contact Marco Lopez-Cruz (lopezcru@msu.edu) and Gustavo de los Campos (gustavoc@msu.edu).
-
 The development of this resource has been funding by NSF PGRP-Tech Grant #2035472.
+
+If you have questions about the content of this repository, please contact Marco Lopez-Cruz (lopezcru@msu.edu) and Gustavo de los Campos (gustavoc@msu.edu).
 
 ## Menu
  1. [Requeriments and software](#soft_req)
