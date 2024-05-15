@@ -54,10 +54,9 @@ Data analysis:
 <a name="data_source"></a>
 ### 2) Data source
 
-The phenotypic and genotypic data can be downloaded from the G2F repoisotry
-  - **[Phenotypic data](https://www.genomes2fields.org/resources/)**
-  - Genotypic data: [https://doi.org/10.25739/tq5e-ak26](https://doi.org/10.25739/tq5e-ak26)
-  - (https://datacommons.cyverse.org/browse/iplant/home/shared/commons_repo/curated/GenomesToFields_GenotypeByEnvironment_PredictionCompetition_2023)**
+The phenotypic and genotypic data can be downloaded from the G2F repository
+  - Phenotypic data: https://www.genomes2fields.org/resources
+  - Genotypic data: https://doi.org/10.25739/tq5e-ak26
 
 These data must be downloaded and saved in the `source` folder of the following pipeline.
 
@@ -107,7 +106,7 @@ The overall structure of the workflow is as follows
 ├── README
 ├── source
 │   ├── Agronomic_information
-│   │   | # save here the agronmic information files downloaded from G2F (see Source above), one file per year.
+│   │   | # save here the agronomic information files downloaded from G2F (see Source above), one file per year.
 │   ├── Genotype
 │   │    # save here the compressed vcf file with genotypes, downloaded from G2F
 │   ├── Metadata
