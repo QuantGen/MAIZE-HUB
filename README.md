@@ -7,7 +7,7 @@ If you have questions about the content of this repository, please contact Marco
 The development of this resource has been funding by NSF PGRP-Tech Grant #2035472.
 
 ## Menu
- 1. [Requeriments and software](#req_soft)
+ 1. [Requeriments and software](#soft_req)
  2. [Data source](#data_source)
  3. [Data curation and environmental covariates workflow](#data_curation)
  4. [Data analysis and benchmarks modules](#data_analysis)
@@ -40,12 +40,12 @@ You can read them into an R environment using the following code.
  GENO=as.matrix(GENO[,-1])
 ```
 
-<a name="data_source"></a>
+<a name="soft_req"></a>
 ### 1) Software requeriments
-  - APSIM Next Generation (>=2021.11.3.6921)
-  - apsimx R-package (>=2.3.1)
-  - BGLR R-package (>=1.1.0)
-  - tensorEVD R-package (>=0.1.1)
+  - [APSIM Next Generation](https://apsimnextgeneration.netlify.app/) (>=2021.11.3.6921)
+  - [apsimx R-package](https://cran.r-project.org/web/packages/apsimx/vignettes/apsimx.html) (>=2.3.1)
+  - [BGLR R-package](https://github.com/gdlc/BGLR-R) (>=1.1.0)
+  - [tensorEVD R-package](https://github.com/MarcooLopez/tensorEVD) (>=0.1.1)
 
 <a name="data_source"></a>
 ### 2) Data source
