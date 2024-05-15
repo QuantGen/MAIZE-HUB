@@ -4,10 +4,10 @@ This repository has the pipelines used in [Lopez-Cruz *et al*. (2023)](https://d
 
 If you have questions about the content of this repository, please contact Marco Lopez-Cruz (lopezcru@msu.edu) and Gustavo de los Campos (gustavoc@msu.edu).
 
-The development of this resource has been funding by NSF-PGRP Grant [NUM].
+The development of this resource has been funding by NSF PGRP-Tech Grant #2035472.
 
 ## Menu
- 1. Requeriments and software
+ 1. [Requeriments and software](#req_soft)
  2. [Data source](#data_source)
  3. [Data curation and environmental covariates workflow](#data_curation)
  4. [Data analysis and benchmarks modules](#data_analysis)
@@ -43,6 +43,9 @@ You can read them into an R environment using the following code.
 <a name="data_source"></a>
 ### 1) Data source
 
+<a name="data_source"></a>
+### 2) Data source
+
 The phenotypic and genotypic data can be downloaded from the G2F repoisotry
   - **[Phenotypic data](https://www.genomes2fields.org/resources/)**
   - **[Genotypic data](https://datacommons.cyverse.org/browse/iplant/home/shared/commons_repo/curated/GenomesToFields_GenotypeByEnvironment_PredictionCompetition_2023)**
@@ -50,7 +53,7 @@ The phenotypic and genotypic data can be downloaded from the G2F repoisotry
 These data must be downloaded and saved in the `source` folder of the following pipeline.
 
 <a name="data_curation"></a>
-###  2) Data curation and environmental covariates workflow
+###  3) Data curation and environmental covariates workflow
 
 The pipeline used to generate the curated data set can be downloaded from this [link](https://github.com/QuantGen/MAIZE-HUB/blob/main/data_curation_and_ecov.zip).
 
@@ -112,7 +115,7 @@ The overall structure of the workflow is as follows
 ```
 
 <a name="data_analysis"></a>
-### 3) Data analysis and benchmarks modules
+### 4) Data analysis and benchmarks modules
 
 We used the curated data set to run vairous analysis including, principal components analysis, environmental-covariate-phenotype association analysis, variance components estimation, and assessment of prediction accuracy using Bayesian models.
 
