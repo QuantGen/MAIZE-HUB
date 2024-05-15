@@ -42,8 +42,12 @@ You can read them into an R environment using the following code.
 
 <a name="soft_req"></a>
 ### 1) Software requeriments
+
+Environmental Covariates derivation:
   - [APSIM Next Generation](https://apsimnextgeneration.netlify.app/) crop modeling tool (>=2021.11.3.6921)
   - [apsimx](https://cran.r-project.org/web/packages/apsimx/vignettes/apsimx.html) R-package (>=2.3.1)
+
+Data analysis:
   - [BGLR](https://github.com/gdlc/BGLR-R) R-package (>=1.1.0)
   - [tensorEVD](https://github.com/MarcooLopez/tensorEVD) R-package (>=0.1.1)
 
