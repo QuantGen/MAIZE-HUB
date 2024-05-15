@@ -41,7 +41,11 @@ You can read them into an R environment using the following code.
 ```
 
 <a name="data_source"></a>
-### 1) Data source
+### 1) Software requeriments
+  - APSIM Next Generation (>=2021.11.3.6921)
+  - apsimx R-package (>=2.3.1)
+  - BGLR R-package (>=1.1.0)
+  - tensorEVD R-package (>=0.1.1)
 
 <a name="data_source"></a>
 ### 2) Data source
