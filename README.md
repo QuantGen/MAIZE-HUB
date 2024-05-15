@@ -56,7 +56,8 @@ Data analysis:
 
 The phenotypic and genotypic data can be downloaded from the G2F repoisotry
   - **[Phenotypic data](https://www.genomes2fields.org/resources/)**
-  - **[Genotypic data](https://datacommons.cyverse.org/browse/iplant/home/shared/commons_repo/curated/GenomesToFields_GenotypeByEnvironment_PredictionCompetition_2023)**
+  - Genotypic data: [https://doi.org/10.25739/tq5e-ak26](https://doi.org/10.25739/tq5e-ak26)
+  - (https://datacommons.cyverse.org/browse/iplant/home/shared/commons_repo/curated/GenomesToFields_GenotypeByEnvironment_PredictionCompetition_2023)**
 
 These data must be downloaded and saved in the `source` folder of the following pipeline.
 
