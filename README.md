@@ -47,6 +47,7 @@ Environmental Covariates derivation:
   - [APSIM Next Generation](https://apsimnextgeneration.netlify.app/) crop modeling tool (>=2021.11.3.6921)
   - [apsimx](https://cran.r-project.org/web/packages/apsimx/vignettes/apsimx.html) R-package (>=2.3.1)
   - [tidygeocoder](https://jessecambon.github.io/tidygeocoder/) R-package (>=1.0.5)
+  - [SFSI](https://github.com/MarcooLopez/SFSI) R-package (>=1.3.1)
 
 Data analysis:
   - [BGLR](https://github.com/gdlc/BGLR-R) R-package (>=1.1.0)
