@@ -127,7 +127,7 @@ The overall structure of the workflow is as follows
 <a name="data_analysis"></a>
 ### 4) Data analysis and benchmarks modules
 
-We used the curated data set to run vairous analysis including, principal components analysis, environmental-covariate-phenotype association analysis, variance components estimation, and assessment of prediction accuracy using Bayesian models.
+We used the curated data set to run various analyses including, principal components analysis, environmental-covariate-phenotype association analysis, variance components estimation, and assessment of prediction accuracy using Bayesian models.
 
 The workflow used for analysis can be downloaded from the following [link](https://github.com/QuantGen/MAIZE-HUB/blob/main/analysis.zip).
 
