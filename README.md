@@ -198,14 +198,19 @@ The uncompressed file will generate the following files.
 └── README
 ```
 
-The historical EC data can be matched to the file of observed phenotypes (`PHENO.csv`) using the 'year-city' names (e.g., 2000-College Station). This column needs to be created in the phenotypic file.
-Some locations have 'early' and 'late' planting date
-You can read them into an R environment using the following code.
+The historical EC data can be matched to the file of observed phenotypes (`PHENO.csv`) using the 'year-city' names (e.g., *2000-College Station*). Some locations have 'early' and 'late' planting date and, therefore, have an extra suffix in the name (e.g., *2000-College Station-Early* and *2000-College Station-Late*). The following R-code can be used to create this 'year-city' names.
 
 ```r
- PHENO=read.csv('data/PHENO.csv') 
- ECOV=read.csv('data/ECOV.csv', row.names=1)
- GENO=data.table::fread('data/GENO.csv',sep=',',data.table=FALSE) 
- rownames(GENO)=GENO[,1]
- GENO=as.matrix(GENO[,-1])
+ PHENO=read.csv('data/PHENO.csv')
+ PHENO$year_city=paste0(PHENO$year,"-",PHENO$city)
+
+ ECOV2=read.csv('historical_ecov/ECOV.csv', row.names=1)
+ ECOV_info=read.csv('historical_ecov/ECOV_info.csv')
+
+ for(yl in unique(PHENO$year_loc)){
+  index=which(PHENO$year_loc==yl)
+  tmp=ECOV_info[grep(PHENO[index,"year_city"][1],ECOV_info$year_city),]
+  dd=as.Date(tmp$date_plant_opt)-mean(as.Date(PHENO[index,"date_plant"]))
+  PHENO[index,"year_city"]=tmp[which.min(abs(dd)),"year_city"]
+ }
 ```
