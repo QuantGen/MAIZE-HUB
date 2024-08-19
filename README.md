@@ -19,7 +19,6 @@ The final curated data set can be downloaded form this Figshare repository https
 
 Once the files are downloaded and uncompressed, it will generate the following files
 
-
 ```
 data
 ├── ECOV.csv
@@ -185,4 +184,28 @@ pipeline_analysis
 <a name="hist_ecov"></a>
 ### 5) Historical environmental covariates
 
-Environmental Covariates derivation:
+Historical ECs for 23 years (2000-2022) were derived for each of the 28 geographical locations. The final historical EC file contains 207 covariates for all the 644 year-city combinations. This data set can be downloaded from this [link](https://github.com/QuantGen/MAIZE-HUB/blob/main/historical_ecov.zip).
+
+The uncompressed file will generate the following files.
+
+```
+[historical_ecov]
+├── ECOV.csv
+├── ECOV_KL.csv
+├── ECOV_info.csv
+├── ECOV_layered.csv
+├── ECOV_period.csv
+└── README
+```
+
+The historical EC data can be matched to the file of observed phenotypes (`PHENO.csv`) using the 'year-city' names (e.g., 2000-College Station). This column needs to be created in the phenotypic file.
+Some locations have 'early' and 'late' planting date
+You can read them into an R environment using the following code.
+
+```r
+ PHENO=read.csv('data/PHENO.csv') 
+ ECOV=read.csv('data/ECOV.csv', row.names=1)
+ GENO=data.table::fread('data/GENO.csv',sep=',',data.table=FALSE) 
+ rownames(GENO)=GENO[,1]
+ GENO=as.matrix(GENO[,-1])
+```
