@@ -33,9 +33,9 @@ data
 You can read them into an R environment using the following code.
 
 ```r
- PHENO=read.csv('PHENO.csv') 
- ECOV=read.csv('ECOV.csv', row.names=1)
- GENO=data.table::fread('GENO.csv',sep=',',data.table=FALSE) 
+ PHENO=read.csv('data/PHENO.csv') 
+ ECOV=read.csv('data/ECOV.csv', row.names=1)
+ GENO=data.table::fread('data/GENO.csv',sep=',',data.table=FALSE) 
  rownames(GENO)=GENO[,1]
  GENO=as.matrix(GENO[,-1])
 ```
