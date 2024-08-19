@@ -11,6 +11,7 @@ If you have questions about the content of this repository, please contact Marco
  2. [Data source](#data_source)
  3. [Data curation and environmental covariates workflow](#data_curation)
  4. [Data analysis and benchmarks modules](#data_analysis)
+ 5. [Historical environmental covariates](#hist_ecov)
    
 ## Final curated data set
 
@@ -67,11 +68,9 @@ These data must be downloaded and saved in the `source` folder of the following 
 
 The pipeline used to generate the curated data set can be downloaded from this [link](https://github.com/QuantGen/MAIZE-HUB/blob/main/data_curation_and_ecov.zip).
 
-
 Once the file is uncompressed, it will generate a collection of folders, each containing a module of the workflow (see folder tree below). The number that preceeds the folder name indicate the order in which the modules need to be run. Because some modules use outputs from other modules as inputs, as a rule of thumb we recommend running the modules sequentially.
 
 Before running any module you need to populate the `source` folder with the data downloaded from G2F (see [Data source](#data_source)). 
-
 
 The overall structure of the workflow is as follows
 
@@ -133,7 +132,6 @@ The workflow used for analysis can be downloaded from the following [link](https
 
 The uncompressed file will generate the following folders. Unlike the data curation, the analysis modules can be run in any order, since there are no dependencies between modules of the analysis workflow.
 
-
 ```
 pipeline_analysis
 ├── 1_PC_genotypes
@@ -182,6 +180,9 @@ pipeline_analysis
     ├── get_folds.R
     ├── get_variance.R
     └── TENSOR_EVD.R
-
 ```
 
+<a name="hist_ecov"></a>
+### 5) Historical environmental covariates
+
+Environmental Covariates derivation:
