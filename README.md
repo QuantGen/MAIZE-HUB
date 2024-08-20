@@ -198,7 +198,7 @@ The uncompressed file will generate the following files.
 └── README
 ```
 
-The historical EC data can be matched to the file of observed phenotypes (`PHENO.csv`) using the 'year-city' names (e.g., *2000-College Station*). Some locations have 'early' and 'late' planting date and, therefore, have an extra suffix in the name (e.g., *2000-College Station-Early* and *2000-College Station-Late*). The following R-code can be used to create this 'year-city' names.
+The 'year-city' (e.g., *2000-College Station*) names (i.e., the row names) of the historical EC data can be used to match it to the file of observed phenotypes (`PHENO.csv`). This column does not exist in the `PHENO.csv` file and has to be created. Some locations have 'early' and 'late' planting date and, therefore, have an extra suffix in the name (e.g., *2000-College Station-Early* and *2000-College Station-Late*). The following R-code can be used to create these 'year-city' names in the `PHENO.csv` file.
 
 ```r
  PHENO=read.csv('data/PHENO.csv')
